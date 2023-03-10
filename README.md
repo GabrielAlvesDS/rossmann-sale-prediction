@@ -1,6 +1,7 @@
 # Rossmann sales prediction model
+This is a machine learning project for predicting drugstore chain sales.
 
-This is a sales prediction project for a drugstore chain.
+![cover](https://github.com/GabrielAlvesDS/DataScience_em_Producao/blob/main/img/business_image2.png)
 
 ## Business Question
 Rossmann Drug Stores' CFO asked for a sales forecast for each store over the next six weeks in order to set a budget for store renovations. To obtain results with a higher level of precision, we created a machine learning model and made it available for consultation through a telegram bot.

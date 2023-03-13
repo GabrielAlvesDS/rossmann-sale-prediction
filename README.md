@@ -21,13 +21,14 @@ The dataset provides historical (daily) data on sales made by the 1,115 stores o
 - Date on which the store started participating in the 2nd promotion
 - Consecutive intervals (months) in which the 2nd promotion started
 
-# Suposições de negócios
-....
 
-# Atributos
-...
+## Data Analysis
 
-# Estratégia adotada
-...
+The correlation between attributes was analyzed in order to better understand which variables explain Rossmann's sales phenomenon. Below are some of the most relevant analyses:
 
-#
+
+- Multivariate analysis: Numerical Attributes
+![eda-1](https://github.com/GabrielAlvesDS/DataScience_em_Producao/blob/main/img/heatmap.png)
+
+- Multivariate analysis: Categorical Attributes
+![eda-2](https://github.com/GabrielAlvesDS/DataScience_em_Producao/blob/main/img/eda_categorical_map.png)

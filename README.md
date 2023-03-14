@@ -4,7 +4,7 @@ This is a machine learning project for predicting drugstore chain sales.
 ![cover](https://github.com/GabrielAlvesDS/DataScience_em_Producao/blob/main/img/business_image2.png)
 
 ## Business Question
-Rossmann Drug Stores' CFO asked for a sales forecast for each store over the next six weeks in order to set a budget for store renovations. To obtain results with a higher level of precision, we created a machine learning model and made it available for consultation through a telegram bot.
+Rossmann Drug Stores' CFO asked for a sales prediction for each store over the next six weeks in order to set a budget for store renovations. To obtain results with a higher level of precision, we created a machine learning model and made it available for consultation through a telegram bot.
 
 ## Introducing the dataset
 The dataset provides historical (daily) data on sales made by the 1,115 stores over 2 years and 7 months, and other information such as:
